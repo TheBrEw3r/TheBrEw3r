@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @TheBrEw3r
  
-- 👀 I’m interested in cybersecurity 
+- 👀 I’m interested in cybersecurity
+  
+💸 - I'm also interested on money
 
 - 🌱 I’m currently learning Golang 
 
@@ -11,6 +13,10 @@
 - ⚡ Fun fact: I brew potions and beer
 
 💡 - Don't think you're gonna find my source code on github. All my potions will be on my website. 
+
+🌍 - Enjoying my life... 
+
+
 
 <!---
 TheBrEw3r/TheBrEw3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
